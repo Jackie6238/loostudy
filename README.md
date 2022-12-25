@@ -1,4 +1,4 @@
-# unjuanable-juan
+# loostudy
 This is a personal archive of some study material I am making along my journey as a Uwaterloo CS student. (*^▽^*)
 
 I am trying to post only original (legal) work here. But if any document is even slightly illegal, please contact me and I will take it down 🖤🖤
